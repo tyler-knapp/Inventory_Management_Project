@@ -6,6 +6,10 @@ import java.io.FileNotFoundException;
 
 public class Main {
 
+    private static final String SHOW_ACCOUNT_BALANCE = "1";
+    private static final String ADD_MONEY_TO_ACCOUNT = "2";
+    private static final String SUBTRACT_MONEY_FROM_ACCOUNT = "3";
+
     private Menu menu;
 
 
